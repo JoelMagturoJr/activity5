@@ -5,7 +5,7 @@ session_start();
 //create a pre defined username and password since we do not have database
 $acc_username = "JoelMagturo";
 $acc_password = "eladya";
-$acc_fullname = "Joel M. Magturo JR";
+$acc_fullname = "Joel M. Magturo Jr";
 $acc_address = "Bunganay Marinduque";
 
 // check the current url for the redirection later
